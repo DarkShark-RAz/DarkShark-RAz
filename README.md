@@ -1,3 +1,7 @@
-<h3 align="center"> Hi I'am Snehal Raj 👋</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=E37E10&lines=Web+developer;Learning+Flutter;Web3+enthusiast;Always+Learning;Loves+to+play+Valorant;Thinks+aliens+are+real)](https://git.io/typing-svg)
-<h1 align="center">Hi</h1>
+<h3 align="center"> 
+  Hi I'am Snehal Raj 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=quicksand&size=20&duration=4000&color=E37E10&center=true&vCenter=true&lines=Web+Developer;Learning+Flutter;Web3+Enthusiast;Always+Learning;Loves+To+Play+Valorant;Thinks+Aliens+Are+Real"></img>
+ </p>
